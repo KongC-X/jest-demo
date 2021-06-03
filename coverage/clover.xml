@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1622635469245" clover="3.2.0">
+  <project timestamp="1622635469245" name="All files">
+    <metrics statements="20" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="11" elements="34" coveredelements="30" complexity="0" loc="20" ncloc="20" packages="1" files="7" classes="7"/>
+    <file name="Counter.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/Counter.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="demo.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/demo.js">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="demo1.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/demo1.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="demoDom.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/demoDom.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="fetchData.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/fetchData.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="math.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/math.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="util.js" path="/Users/kongc/Desktop/前端自动化测试jest/demo/jest-none/util.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>
